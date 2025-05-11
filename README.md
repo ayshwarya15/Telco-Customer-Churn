@@ -1,5 +1,5 @@
 # Telco-Customer-Churn
-Customer Churn Prediction using Machine Learning
+**Customer Churn Prediction using Machine Learning**
 
 **Project Overview**
 This project focuses on predicting customer churn for a telecom company using real-world customer data. The goal is to identify patterns and factors leading to customer churn and build a machine learning model that accurately classifies whether a customer is likely to leave the service.
